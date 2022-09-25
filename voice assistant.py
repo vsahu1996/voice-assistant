@@ -7,7 +7,7 @@ import os
 import time
 from ecapture import ecapture as ec
 import requests
-
+# -----------------
 
 print('Loading your personal voice assistant')
 
